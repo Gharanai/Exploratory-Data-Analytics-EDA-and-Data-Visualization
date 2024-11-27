@@ -1,4 +1,4 @@
-I have worked on a dataset to apply my technicl skill in terms of Data Analysis and Visulaization. Here, I am sharing the breif structure of the mentioned dataset, please take a look.
+I have worked on a dataset to apply my high-tech skill in terms of Data Analysis and Visulaization. Here, I am sharing the breif structure of the mentioned dataset, please take a look.
 The dataset contains 10 columns and 1,074 rows, representing unicorn companies (startups valued at $1 billion or more). Here's a breakdown of the columns:
 
 **Company**: Name of the unicorn company.
